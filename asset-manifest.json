@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MirajHowlader/React_Portfolio/static/css/main.d30e0fad.css",
+    "main.js": "/MirajHowlader/React_Portfolio/static/js/main.ba7f310e.js",
+    "static/media/boy.png": "/MirajHowlader/React_Portfolio/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/glassesimoji.png": "/MirajHowlader/React_Portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/MirajHowlader/React_Portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/MirajHowlader/React_Portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/MirajHowlader/React_Portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/crown.png": "/MirajHowlader/React_Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/MirajHowlader/React_Portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/MirajHowlader/React_Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/MirajHowlader/React_Portfolio/index.html",
+    "main.d30e0fad.css.map": "/MirajHowlader/React_Portfolio/static/css/main.d30e0fad.css.map",
+    "main.ba7f310e.js.map": "/MirajHowlader/React_Portfolio/static/js/main.ba7f310e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d30e0fad.css",
+    "static/js/main.ba7f310e.js"
+  ]
+}
